@@ -1,5 +1,5 @@
 <p align="center"> 
-  <img src="https://profile-counter.glitch.me/mysteriouss3/count.svg" />
+  <img src="https://profile-counter.glitch.me/jarvenox/count.svg" />
 </p>
 
 # <img width="100%" src= "https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4a76fc&background=FF6AAA00&vCenter=false&multiline=true&width=1000&height=50&lines=Hello%2C+I+am+Jarvenox">
