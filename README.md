@@ -2,7 +2,7 @@
   <img src="https://profile-counter.glitch.me/mysteriouss3/count.svg" />
 </p>
 
-# <img width="100%" src= "https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4a76fc&background=FF6AAA00&vCenter=false&multiline=true&width=1000&height=50&lines=Hello%2C+I+am+Jarvenux">
+# <img width="100%" src= "https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4a76fc&background=FF6AAA00&vCenter=false&multiline=true&width=1000&height=50&lines=Hello%2C+I+am+Jarvenox">
 
 <p align="center">
   <img src="https://lanyard.kyrie25.me/api/324743988911407105?decoration=true&useDisplayName=true&animationDuration=2s&waveColor=7ea1f3&imgStyle=square&imgBorderRadius=16px&&bg=DD272700&idleMessage=Nothingness" width="350px" align="center">
@@ -28,8 +28,8 @@
 
 ## 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mysteriouss3&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" width="450px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mysteriouss3&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="450px">
+  <img src="https://github-readme-stats.vercel.app/api?username=jarvenox&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" width="450px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jarvenox&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="450px">
 </p>
 
 ---
