@@ -28,7 +28,8 @@
 
 ## 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jarvenox&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" width="450px">
+  <img src="https://github-readme-stats.vercel.app/api?username=jarvenox&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" width="450px">   
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jarvenox&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="450px">
 </p>
 
