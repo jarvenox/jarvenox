@@ -5,7 +5,7 @@
 # <img width="100%" src= "https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4a76fc&background=FF6AAA00&vCenter=false&multiline=true&width=1000&height=50&lines=Hello%2C+I+am+Jarvenox">
 
 <p align="center">
-  <img src="https://lanyard.kyrie25.me/api/213282934826860545?decoration=true&useDisplayName=true&animationDuration=2s&waveColor=7ea1f3&imgStyle=square&imgBorderRadius=16px&&bg=DD272700&idleMessage=Nothingness" width="350px" align="center">
+  <img src="https://lanyard.cnrad.dev/api/213282934826860545?decoration=true&useDisplayName=true&animationDuration=2s&waveColor=7ea1f3&imgStyle=square&imgBorderRadius=16px&&bg=DD272700&idleMessage=Nothingness" width="450px" align="center">
 </p>
 
 ---
