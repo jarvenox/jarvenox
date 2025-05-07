@@ -18,14 +18,6 @@
 
 ---
 
-## 🎧 Currently Listening To:
-
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=z8tws1c5i0ympjfw6649yvkl4&cover_image=true&theme=natemoo-re&show_offline=true&background_color=000000&bar_color=ffffff&bar_color_cover=false" width="450px"/>
-</p>
-
----
-
 ## 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jarvenox&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" width="450px">   
